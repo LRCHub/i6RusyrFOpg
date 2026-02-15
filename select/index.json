@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "HARU",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-02-15T04:41:36.910082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hakanaki Haru No Ichimaku",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/01_Hakanaki_Haru_No_Ichimaku_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sapana Haru Ferdai",
+      "artist": "Beest",
+      "has_synced": true,
+      "path": "select/02_Sapana_Haru_Ferdai_Beest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ao--Haru--Ride",
+      "artist": "Yuki Hayashi",
+      "has_synced": false,
+      "path": "select/03_Ao--Haru--Ride_Yuki_Hayashi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Haru no Tonari",
+      "artist": "Eri Sasaki",
+      "has_synced": true,
+      "path": "select/04_Haru_no_Tonari_Eri_Sasaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Haru Ga Kite Bokura",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/05_Haru_Ga_Kite_Bokura_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Haru Ga Kita",
+      "artist": "Raffi",
+      "has_synced": false,
+      "path": "select/06_Haru_Ga_Kita_Raffi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Haru wo Tsugeru",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/07_Haru_wo_Tsugeru_yama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Haru Haru",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/08_Haru_Haru_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Haru Haru (하루하루)",
+      "artist": "Big Bang",
+      "has_synced": true,
+      "path": "select/09_Haru_Haru_(하루하루)_Big_Bang.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Haru Urara",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/10_Haru_Urara_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Haru Haru (Acoustic Version)",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/11_Haru_Haru_(Acoustic_Version)_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Haru Yo, Koi",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/12_Haru_Yo,_Koi_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Haru yo, Koi",
+      "artist": "Selphius feat. crouka",
+      "has_synced": true,
+      "path": "select/13_Haru_yo,_Koi_Selphius_feat._crouka.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Haru yo, Koi",
+      "artist": "Selphius/crouka",
+      "has_synced": true,
+      "path": "select/14_Haru_yo,_Koi_Selphius_crouka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Haru",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/15_Haru_eill.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Return - feat. Haru Nemuri",
+      "artist": "Prune Deer feat. HARU NEMURI",
+      "has_synced": true,
+      "path": "select/16_Return_-_feat._Haru_Nemuri_Prune_Deer_feat._HARU_NEMURI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Return 返信 (feat. Haru Nemuri)",
+      "artist": "PRUNE DEER",
+      "has_synced": true,
+      "path": "select/17_Return_返信_(feat._Haru_Nemuri)_PRUNE_DEER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HARU",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_HARU_CLAN_QUEEN.txt"
+    }
+  ]
+}
